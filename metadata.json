@@ -1,0 +1,8 @@
+{
+  "name": "File Manager",
+  "description": "Offline File Manager for Android with storage analysis, media preview, text editor, zip compression, trash bin, and RTL/LTR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

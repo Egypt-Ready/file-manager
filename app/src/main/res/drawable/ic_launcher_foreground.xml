@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Folder Body -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M30,32 L46,32 L52,38 L78,38 C81.3,38 84,40.7 84,44 L84,72 C84,75.3 81.3,78 78,78 L30,78 C26.7,78 24,75.3 24,72 L24,38 C24,34.7 26.7,32 30,32 Z" />
+    <!-- Folder Tab Accent -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M30,42 L78,42 C80.2,42 82,43.8 82,46 L82,72 C82,74.2 80.2,76 78,76 L30,76 C27.8,76 26,74.2 26,72 L26,46 C26,43.8 27.8,42 30,42 Z" />
+    <!-- File/Document inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48 L64,48 C65.1,48 66,48.9 66,50 L66,66 C66,67.1 65.1,68 64,68 L44,68 C42.9,68 42,67.1 42,66 L42,50 C42,48.9 42.9,48 44,48 Z" />
+    <!-- Document lines -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M46,54 L62,54 L62,56 L46,56 Z M46,58 L58,58 L58,60 L46,60 Z M46,62 L54,62 L54,64 L46,64 Z" />
+</vector>
